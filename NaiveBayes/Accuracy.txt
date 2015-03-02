@@ -1,0 +1,3 @@
+
+No of documents classified correctly - 1774
+Accuracy = 0.982281
