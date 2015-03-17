@@ -3,7 +3,7 @@ Decision Tree Learning Algorithm
 ---
 
 
-License: 
+
 
 
 # Description #
